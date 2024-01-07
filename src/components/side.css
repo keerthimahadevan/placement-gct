@@ -1,0 +1,10 @@
+/* styles.css */
+
+.bg-image-container {
+    background-image: url('./orange.jpg'); /* Adjust the path based on your project structure */
+    background-size: cover;
+    background-position: left;
+  }
+  
+  /* Add other styles as needed */
+  
